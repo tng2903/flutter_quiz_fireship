@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66557116227",
+    "firebase_url": "https://flutter-app-b4645.firebaseio.com",
+    "project_id": "flutter-app-b4645",
+    "storage_bucket": "flutter-app-b4645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66557116227:android:f8fc45520764c3d04af9f6",
+        "android_client_info": {
+          "package_name": "srs.app.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66557116227-kjia4ftsar88prhqgq0ld3lsrrn9lpno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPdYP-WThorq1mZVx5KhZARuGdySKZD7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66557116227-kjia4ftsar88prhqgq0ld3lsrrn9lpno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
